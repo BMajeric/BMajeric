@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm a student at Faculty of Electrical Engineering and Computing (FER) in Zagreb, Croatia<br>🔭 I’m currently working on my Masters Thesis, a poker video game with an AI agent that uses face analysis to try and read the player's tells and adapt its strategy<br>🌱 I’m currently learning how to implement intelligent agents using standard machine learning methods such as reinforcement learning<br>🤝 I want to get better at using programs like Blender, Aseprite, Photoshop and others to create my own models and other assets<br>
+⚡ I'm a student at Faculty of Electrical Engineering and Computing (FER) in Zagreb, Croatia<br>🔭 I’m currently working on my [Masters Thesis](https://github.com/BMajeric/PokerAI), a poker video game with an AI agent that uses face analysis to try and read the player's tells and adapt its strategy<br>🌱 I’m currently learning how to implement intelligent agents using standard machine learning methods such as reinforcement learning<br>🤝 I want to get better at using programs like Blender, Aseprite, Photoshop and others to create my own models and other assets<br>
 
 
 # 💻 Tech Stack:
